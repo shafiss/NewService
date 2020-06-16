@@ -66,6 +66,7 @@
     <build>
 
 	<defaultGoal>install</defaultGoal>
+<sourceDirectory>src</sourceDirectory>
         <finalName>SimpleService</finalName>
     </build>
 
