@@ -64,6 +64,8 @@
     </dependencies>
 
     <build>
+
+	<defaultGoal>install</defaultGoal>
         <finalName>SimpleService</finalName>
     </build>
 
